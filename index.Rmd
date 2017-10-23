@@ -787,7 +787,7 @@ Hansjoerg Neth, Jan Woike, Wolfgang Gaissmaier
 <font size=4>Nathaniel.D.Phillips.is@gmail.com</font>
 
 <br3>
-<font size=4><a href="http://ndphillips.github.io/presentations/Informs_2017/Informs_2017.html">http://ndphillips.github.io/Informs2017/Informs2017</a></font>
+<font size=4><a href="http://ndphillips.github.io/Informs2017">http://ndphillips.github.io/Informs2017</a></font>
 <br3>
 <font size=4>ShinyFFTrees: <a href="http://www.shinyfftrees.org">http://www.shinyfftrees.org</a></font>
 
