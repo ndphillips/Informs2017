@@ -1,5 +1,5 @@
 ---
-title: "Presentation Ninja"
+title: "FFTrees"
 subtitle: "⚔<br/>with xaringan"
 author: "Yihui Xie"
 date: "2016/12/12"
@@ -797,7 +797,7 @@ Hansjoerg Neth, Jan Woike, Wolfgang Gaissmaier
 <font size=4>Nathaniel.D.Phillips.is@gmail.com</font>
 
 <br3>
-<font size=4><a href="http://ndphillips.github.io/Informs2017">http://ndphillips.github.io/Informs2017</a></font>
+<font size=4>Slides: <a href="http://ndphillips.github.io/Informs2017">http://ndphillips.github.io/Informs2017</a></font>
 <br3>
 <font size=4>ShinyFFTrees: <a href="http://www.shinyfftrees.org">http://www.shinyfftrees.org</a></font>
 
