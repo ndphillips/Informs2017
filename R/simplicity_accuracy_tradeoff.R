@@ -137,7 +137,7 @@ mtext(side = 2, text = "Value", line = 3, cex = 1.5)
 text(30, 50, srt = 15, labels = "Accuracy", cex = 1, col = yarrr::transparent("blue", .7), font = 1)
 text(30, 5, srt = 0, labels = "Cost", cex = 1, col = yarrr::transparent("red", .7), font = 1)
 
-text(30, 77, srt = 10, labels = "Value", cex = 2, col = yarrr::transparent("darkgreen", .1), font = 2)
+text(30, 50, srt = 10, labels = "Value", cex = 2, col = yarrr::transparent("darkgreen", .1), font = 2)
 
 mtext(side = 1, text = "Complexity", line = 3, cex = 1.5)
 
@@ -149,15 +149,15 @@ cost.curve <- function(x) {sqrt(x) * .1}
 curve(cost.curve, from = 0, to = 100, add = TRUE, 
       col = yarrr::transparent("red", .7), lwd = 5)
 
-net.curve <- function(x) {medium(x) - cost.curve(x)}
+net.curve <- function(x) {slow(x) - cost.curve(x)}
 curve(net.curve, from = 0, to = 100, add = TRUE, 
       col = yarrr::transparent("forestgreen", .3), lwd = 7)
 
 points(80, 78, cex = 10, pch = 22, bg = gray(.1), lwd = 5)
 text(80, 78, labels = "Black\nBox", col = "white", cex = 1.2, font = 2)
 
-points(10, 63, cex = 10, pch = 21, bg = "white", lwd = 3)
-text(10, 63, labels = "Simple", cex = 1.25)
+points(10, 25, cex = 10, pch = 21, bg = "white", lwd = 3)
+text(10, 25, labels = "Simple", cex = 1.25)
 
 axis(2, at = seq(0, 100, 20), las = 1)
 

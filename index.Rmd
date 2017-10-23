@@ -743,6 +743,27 @@ count: false
 ## Slow or fast gains?
 
 ```{r, out.width = "75%", echo = FALSE}
+knitr::include_graphics("images/world_slowgains_2.png")
+```
+
+
+---
+count: false
+
+## Slow or fast gains?
+
+```{r, out.width = "75%", echo = FALSE}
+knitr::include_graphics("images/world_slowgains_3.png")
+```
+
+
+
+---
+count: false
+
+## Slow or fast gains?
+
+```{r, out.width = "75%", echo = FALSE}
 knitr::include_graphics("images/world_fastgains_1.png")
 ```
 
