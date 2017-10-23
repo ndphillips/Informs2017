@@ -722,27 +722,23 @@ knitr::include_graphics("images/jaakola_2.png")
 
 
 ---
-## Slow or fast gains?
-
-```{r, out.width = "75%", echo = FALSE}
+```{r, out.width = "85%", echo = FALSE}
 knitr::include_graphics("images/world_blank.png")
 ```
 
 ---
 count: false
 
-## Slow or fast gains?
 
-```{r, out.width = "75%", echo = FALSE}
+```{r, out.width = "85%", echo = FALSE}
 knitr::include_graphics("images/world_slowgains_1.png")
 ```
 
 ---
 count: false
 
-## Slow or fast gains?
 
-```{r, out.width = "75%", echo = FALSE}
+```{r, out.width = "85%", echo = FALSE}
 knitr::include_graphics("images/world_slowgains_2.png")
 ```
 
@@ -750,9 +746,7 @@ knitr::include_graphics("images/world_slowgains_2.png")
 ---
 count: false
 
-## Slow or fast gains?
-
-```{r, out.width = "75%", echo = FALSE}
+```{r, out.width = "85%", echo = FALSE}
 knitr::include_graphics("images/world_slowgains_3.png")
 ```
 
@@ -761,9 +755,8 @@ knitr::include_graphics("images/world_slowgains_3.png")
 ---
 count: false
 
-## Slow or fast gains?
 
-```{r, out.width = "75%", echo = FALSE}
+```{r, out.width = "85%", echo = FALSE}
 knitr::include_graphics("images/world_fastgains_1.png")
 ```
 
@@ -771,18 +764,14 @@ knitr::include_graphics("images/world_fastgains_1.png")
 ---
 count: false
 
-## Slow or fast gains?
-
-```{r, out.width = "75%", echo = FALSE}
+```{r, out.width = "85%", echo = FALSE}
 knitr::include_graphics("images/world_fastgains_2.png")
 ```
 
 ---
 count: false
 
-## Slow or fast gains?
-
-```{r, out.width = "75%", echo = FALSE}
+```{r, out.width = "85%", echo = FALSE}
 knitr::include_graphics("images/world_fastgains_3.png")
 ```
 
